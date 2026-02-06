@@ -1,0 +1,5 @@
+RPi.GPIO>=0.7.1
+numpy>=1.19.0
+pyaudio>=0.2.11
+RPLCD>=1.3.0
+Flask>=2.0.0

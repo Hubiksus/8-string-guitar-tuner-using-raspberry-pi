@@ -189,15 +189,15 @@ sudo systemctl start guitar_tuner.service
 python3 test_modules.py
 
 # Expected output:
-✓ Configuration         (config.py)
-✓ Hardware Controller   (hardware.py)
-✓ Audio Processor      (audio.py)
-✓ Tuning Manager       (tuning.py)
-✓ Application State    (state.py)
-✓ Web Interface        (web_interface.py)
-✓ Main Application     (main.py)
+ Configuration         (config.py)
+ Hardware Controller   (hardware.py)
+ Audio Processor      (audio.py)
+ Tuning Manager       (tuning.py)
+ Application State    (state.py)
+ Web Interface        (web_interface.py)
+ Main Application     (main.py)
 
-✅ All modules imported successfully!
+ All modules imported successfully!
 ```
 
 ## Deployment Scenarios
